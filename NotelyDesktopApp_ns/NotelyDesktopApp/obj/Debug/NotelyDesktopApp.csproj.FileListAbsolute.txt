@@ -1,0 +1,14 @@
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\bin\Debug\NotelyDesktopApp.exe.config
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\bin\Debug\NotelyDesktopApp.exe
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\bin\Debug\NotelyDesktopApp.pdb
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.createNote.resources
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.editNote.resources
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.MainApp.resources
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.Properties.Resources.resources
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.specificNote.resources
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.csproj.GenerateResource.cache
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.csproj.CoreCompileInputs.cache
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.exe
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.pdb
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.csprojAssemblyReference.cache
+E:\Hidden Genius Project\repos\NotelyDesktopApp_ns\NotelyDesktopApp\obj\Debug\NotelyDesktopApp.notesPage.resources
